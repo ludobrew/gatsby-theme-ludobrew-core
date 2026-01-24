@@ -31,7 +31,7 @@
     "gatsby-plugin-theme-ui": "0.3.5",
     "gatsby-plugin-typescript": "2.11.0",
     "gatsby-source-filesystem": "2.10.0",
-    "lodash": "4.17.20",
+    "lodash": "4.17.23",
     "ncp": "2.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
